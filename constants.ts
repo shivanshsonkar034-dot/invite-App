@@ -1,0 +1,1 @@
+export const APP_LOGO = "https://raw.githubusercontent.com/ai-gen-images/branding/main/invitex-logo.png";
